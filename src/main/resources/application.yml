@@ -1,0 +1,5 @@
+paypal:
+  client-id: CLIENT_ID # client id is fetched from the paypal developer account
+  client-secret: CLIENT_SECRET # client secret is also fetched from the paypal developer account
+  mode: sandbox
+  ## sandbox is used only for dev and testing, and 'live' is used for production.
